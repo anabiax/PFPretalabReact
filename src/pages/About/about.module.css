@@ -1,0 +1,43 @@
+.about {
+    margin: 60px auto;
+    align-items: center;
+    justify-content: center;
+    width: 100%;   
+    display: flex;
+}
+
+.about img {
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+    margin: 100px;
+    border: solid 4px #7200ff;
+}
+
+.about-text{
+    display: block;
+    
+
+}
+
+.about-text h1{
+    font-size: 50px;  
+}
+
+.about h3 {
+    font-size: 40px;  
+    color: #7200ff;
+    padding: 20px 0 20px 0; 
+}
+
+.text {
+    font-size: 20px;
+    align-items: center;
+}
+
+.cv {
+    margin: 20px;
+    padding: 20px;
+    /*font-size: 25px;*/
+    border: solid 1px #7200ff;
+}
