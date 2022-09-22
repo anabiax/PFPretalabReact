@@ -5,7 +5,7 @@ function Footer(){
         
         <footer className={styles.footer}>
             <hr></hr>
-            <p >Copyright © 2022 | Desenvolvido por Ana Beatriz dos Santos | Ciclo Formativo Básico PretaLab</p>
+            <p>Copyright © 2022 | Desenvolvido por Ana Beatriz dos Santos | Ciclo Formativo Básico PretaLab</p>
         </footer>
 
     )

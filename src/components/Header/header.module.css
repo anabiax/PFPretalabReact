@@ -17,13 +17,10 @@
     list-style:none;
     margin-left: 380px;
     /* height: 100px; */
-
-    
 }
 
 .list li a{ 
     color: #FFF;
-    font-size: 22px;
+    font-size: 1.5rem;
     text-decoration: none;
-
 }

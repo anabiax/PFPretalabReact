@@ -2,7 +2,7 @@ import styles from './header.module.css'
 
 function Header(){
     return ( 
-        <header>
+        <nav>
             <div className={styles.header}>
                 <ul className={styles.list}>
                     <li><a href="/">About</a></li>
@@ -11,7 +11,7 @@ function Header(){
                 </ul>
             </div>
             <hr></hr>
-        </header>
+        </nav>
     )
 }
 
