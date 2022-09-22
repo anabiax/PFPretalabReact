@@ -1,8 +1,10 @@
 import styles from './contact.module.css'
 
 function Contact (){
-    return(
-        <h1>contact</h1>
+    return (
+        <div className={styles.header}>
+            <h1>Contato</h1>
+        </div>
     )
 }
 

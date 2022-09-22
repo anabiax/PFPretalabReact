@@ -3,7 +3,11 @@ import styles from './jornada.module.css'
 function Jornada(){
     return(
         <>
-            <h1>jornada</h1>
+            <h2>Sobre mim</h2>
+            <p>quem sou eu</p>
+            <h2>Jornada em tech</h2>
+            <p>caminho das comunidades digitais</p>
+            
         </>
     )
 }
