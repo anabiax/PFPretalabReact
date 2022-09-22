@@ -5,9 +5,10 @@ function Header(){
         <nav>
             <div className={styles.header}>
                 <ul className={styles.list}>
-                    <li><a href="/">About</a></li>
-                    <li><a href="/comments">Comments</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/jornada">Jornada</a></li>
+                    <li><a href="/comments">Comentários</a></li>
+                    <li><a href="/contact">Contato</a></li>
                 </ul>
             </div>
             <hr></hr>

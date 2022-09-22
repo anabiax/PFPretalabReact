@@ -1,7 +1,7 @@
-import styles from './about.module.css'
+import styles from './home.module.css'
 /* import { FaGithub, FaLinkedin, FaDiscord } from "react-icons/fa"; */
 
-function About(){
+function Home(){
     return(
         <>
             <div className={styles.about}>
@@ -18,7 +18,7 @@ function About(){
     )
 }
 
-export default About
+export default Home
 
 /*
     <div className='media'>

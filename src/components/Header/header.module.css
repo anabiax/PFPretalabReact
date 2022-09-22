@@ -4,6 +4,8 @@
     margin: auto;
     width: 100%;
     min-width: 320px;
+    
+
 }
 
 .list {
@@ -17,6 +19,7 @@
     list-style:none;
     margin-left: 380px;
     /* height: 100px; */
+    
 }
 
 .list li a{ 
