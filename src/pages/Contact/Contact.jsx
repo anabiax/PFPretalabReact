@@ -1,6 +1,8 @@
+import styles from './contact.module.css'
+
 function Contact (){
     return(
-        <h1>oi</h1>
+        <h1>contact</h1>
     )
 }
 

@@ -1,6 +1,8 @@
+import styles from './comments.module.css'
+
 function Comments (){
     return (
-        <h1>olá</h1>
+        <h1>comments</h1>
     )
 }
 
