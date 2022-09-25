@@ -16,11 +16,19 @@
     padding-bottom: 40px;
     list-style: none;
     margin-left: 380px;
-    /* height: 100px; */
+    letter-spacing: 1px;
 }
 
-.list li a{ 
-    color: #FFF;
-    font-size: 1.5rem;
+ul {
+    list-style: none;
+    display: flex
+}
+
+li {
+    margin-right: 1rem;
+    font-size: 24px
+}
+
+a {
     text-decoration: none;
 }

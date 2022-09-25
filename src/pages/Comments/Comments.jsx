@@ -42,7 +42,7 @@ function Comments (){
                             <li>
                                     <p>{item.title}</p>
                                     <button className={styles.removeTask}>
-                                        <FiTrash size={30} />
+                                        <FiTrash size={20} />
                                     </button>
                             </li>
                         )
