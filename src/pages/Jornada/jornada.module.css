@@ -1,0 +1,41 @@
+.sobre {
+    margin: 40px 0 0 80px;
+    font-size: 1.4rem;
+}
+
+.sobre h2::after {
+    content: "";
+    display: block;
+    width: 3rem;
+    height: 0.25rem;
+    background-color: #7200ff;
+    margin: 0 auto;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.text {
+    margin: 25px 80px 0 80px;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+span {
+    color: #7200ff;
+    font-weight: bold;
+}
+
+
+.video {
+    text-align: center;
+    padding: 60px 0 60px 0;
+}
+
+.video h2 {
+    padding-bottom: 40px;
+}
+
+.sobre h5 {
+    margin-top: 10px;
+}

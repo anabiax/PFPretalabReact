@@ -23,17 +23,24 @@
 
 .input {
     background: #fff;
+    color: #171717;  /* cor das letras  */
+    font-size: 20px;
     padding: 12px 24px;
     border-radius: 8px;
     height: 100px;
-    width: 70%; 
-    
+    width: 70%;   
+} 
+
+.input::placeholder {
+    font-size: 20px;
+    color: #171717;
 }
 
 .addContainer {
     display: flex;
     justify-content: flex-start;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .addTask {
@@ -46,11 +53,31 @@
 }
 
 .removeTask {
-    background:rgb(230, 79, 79);
+    background-color:rgb(230, 79, 79);
     margin: 2rem;
     border-radius: 8px;
     border: 0;
     padding: 14px;
     color: #fff;
+} 
+
+.itemsList {
+    list-style: none;
+    width: 100%;
+    padding: 2rem;
 }
 
+.itemsList > li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    border-bottom: 0.7px solid #7e7d7d; /*  a linhazinha abaixo do comentário */
+    width: 30%;  /* tô mexendo nisso aqui */
+}
+
+.itemsList li div p {
+    font-size: 1.5rem;
+    color: #fff;
+    
+}  
