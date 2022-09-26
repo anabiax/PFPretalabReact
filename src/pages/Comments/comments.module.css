@@ -1,8 +1,12 @@
-.header{
+.comentario {
     text-align: center;
     width: 100%;
     margin-top: 2rem;
     margin-bottom: 2rem;
+}
+
+.comentario h1 {
+    margin-left: 0.8px;
 }
 
 .list {

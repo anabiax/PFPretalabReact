@@ -19,16 +19,16 @@
     letter-spacing: 1px;
 }
 
-ul {
+.list ul {
     list-style: none;
     display: flex
 }
 
-li {
+.list li {
     margin-right: 1rem;
     font-size: 24px
 }
 
-a {
+.list a {
     text-decoration: none;
 }

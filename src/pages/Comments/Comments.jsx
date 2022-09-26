@@ -63,7 +63,7 @@ const Comments = () => {
 
     return (
         <>
-            <div className={styles.header}>
+            <div className={styles.comentario}>
                 <h1>Deixe um comentário</h1>
             </div>
 

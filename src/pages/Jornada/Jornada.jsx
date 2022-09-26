@@ -6,7 +6,7 @@ function Jornada(){
             <div className={styles.sobre}>
                 <h2>Sobre mim</h2>
             </div>
-            <div className={styles.text}>
+            <div className={styles.texto}>
                 <p>Meu nome é Ana Beatriz, mas prefiro Ana porque sinto que estão brigando comigo quando me chamam pelo nome composto. Sou fascinada pela perspectiva <span>interdisciplinar</span>, isto é, acredito na interconexão dos conhecimentos, e estou no processo de continuidade de carreira, ouvi isso de uma mentora maravilhosa e resolvi acatar, pois achei linda a forma como o repertório é valorizado como parte da pessoa desenvolvedora. </p>
             </div>
 
@@ -14,7 +14,7 @@ function Jornada(){
                 <h2>Jornada em tech</h2>
             </div>
 
-            <div className={styles.text}>
+            <div className={styles.texto}>
                 <p>Estar no processo de continuidade de carreira para a área da tecnologia é algo que verdadeiramente mexe com as estruturas da pessoa que decide trilhar esse caminho permeado por constantes desafios. Contudo, os frutos que são colhidos durante o percurso é o que traz significado à trajetória. </p>
                 <p>Dado pressuposto, vou procurar sintetizar em poucas palavras esse percurso que se iniciou no mês de abril, no evento <span>Programação para não programadores</span> promovido pelo Movimento Black Money e ministrado pela desenvolvedora Simara Conceição.</p>
             
@@ -29,7 +29,7 @@ function Jornada(){
                 <h2>Vínculo com as comunidades digitais</h2>
             </div>
 
-            <div className={styles.text}>
+            <div className={styles.texto}>
                 <p>Certamente as comunidades digitais tiveram um papel crucial para que o impulso fosse tomado e acredito que palavras não seriam suficientes para expressar tamanha gratidão, em especial às comunidades compostas por pessoas negras. </p>
             </div>
 
@@ -38,7 +38,7 @@ function Jornada(){
                 <h5>Verso da música <span>Redescobrir</span> (amo a versão na voz da Maria Rita, filha da Elis Regina).</h5>
             </div>
 
-            <div className={styles.text}>
+            <div className={styles.texto}>
                 <p>Trilhar esse percurso de aprendizagem em uma área completamente nova é desafiador, pois tive de mudar a minha mentalidade e ser muito persistente, orientando a minha perspectiva para o futuro sem deixar de colher os frutos do presente. Se fosse para me resumir em uma frase certamente seria: “a Ana vê potencialidade na diversidade e na curiosidade tb (cá pra nós)”.  </p>
             </div>
 

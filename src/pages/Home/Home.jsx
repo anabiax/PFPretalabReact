@@ -12,8 +12,6 @@ function Home(){
                     <p>Entusiasta das relações entre tecnologia, raça e gênero.</p>
                 </div>
             </div>
-            
-            
         </>
     )
 }
