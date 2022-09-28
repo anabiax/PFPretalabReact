@@ -53,6 +53,9 @@ vercel.json.
 > :construction: Projetinho em construção :construction:
 
 
+![giphy](https://user-images.githubusercontent.com/105956403/192803809-474d630c-c3a3-4c59-8377-900543d1397a.gif)
+
+
 ### Itens a serem implementados:
 
 inserir o loading p/ carregar a troca entre as pag.
@@ -75,4 +78,4 @@ tópicos de acessibilidade;
 
 adc. itens de redes sociais.
 
-https://media1.giphy.com/media/5dUvCX12CKY2jWlLcX/giphy.gif?cid=790b76112a65fbe432badb225345e5ab9ec21b023f12708e&rid=giphy.gif&ct=g
+
