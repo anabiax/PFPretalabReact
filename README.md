@@ -9,7 +9,7 @@ Projeto final desenvolvido utilizando a biblioteca ReactJS no Ciclo Formativo B�
 ## Link do projeto já no ar:
 https://pfp-retalab-react-aq71.vercel.app/
 
-## Comandos p/ a execução do projeto:
+## Comandos:
 
 ****`npm create vite@latest nome-do-projeto --template react`**** 
 
