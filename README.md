@@ -39,6 +39,8 @@ ATENÇÃO: não esquecer de baixar **`npm i nanoid`** p/ ser adicionado o nanoid
 
 `**npm install react-icons --save`(dependência)
 
+<br>
+
 ## Itens implementados:
 
 Rotas;
@@ -56,6 +58,8 @@ firebase;
 .env (p ocultar as informações sensíveis);
 
 vercel.json.
+
+<br>
 
 ## Status:
 
