@@ -12,13 +12,13 @@ Projeto final desenvolvido utilizando a biblioteca ReactJS no Ciclo Formativo B�
 
 ****`cd nome-do-projeto`**** 
 
-****`code .` (abrir o vscode)**
+**`code .` (abrir o vscode)**
 
-****`npm install` (p/ baixar as dependências)**
+**`npm install` (p/ baixar as dependências)**
 
-****`npm install react-router-dom@6` (criar rotas)**
+**`npm install react-router-dom@6` (criar rotas)**
 
-****`npm run dev`  (rodar no navegador)**
+**`npm run dev`  (rodar no navegador)**
 
 Abrir na porta [http://127.0.0.1:5174/](http://127.0.0.1:5174/)  fornecida através do console do vscode (a configuração da rota pode ser diferente)
 
