@@ -29,7 +29,7 @@ https://pfp-retalab-react-aq71.vercel.app/
 
 **`npm run dev`  (rodar no navegador)**
 
-Abrir na porta [http://127.0.0.1:5174/](http://127.0.0.1:5174/)  fornecida através do console do vscode (a configuração da rota pode ser diferente)
+Abrir na porta [http://127.0.0.1:5174/](http://127.0.0.1:5174/)  fornecida através do console do vscode (a configuração da rota pode ser diferente, mas ainda dentro do padrão)
 
 2ª parte
 
