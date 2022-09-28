@@ -35,9 +35,9 @@ Abrir na porta [http://127.0.0.1:5174/](http://127.0.0.1:5174/)  fornecida atrav
 
 ATENÇÃO: não esquecer de baixar **`npm i nanoid`** p/ ser adicionado o nanoid": "^4.0.0" no package.json, com o objetivo de gerar id aleatórios.
 
-`**npm install --save phosphor-react` ***(dependência)***
+`npm install --save phosphor-react` ***(dependência)***
 
-`**npm install react-icons --save`(dependência)
+`npm install react-icons --save`(dependência)
 
 <br>
 
