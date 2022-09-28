@@ -6,7 +6,7 @@ Projeto final desenvolvido utilizando a biblioteca ReactJS no Ciclo Formativo B�
 
   <img align="center" alt="logoReact" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-### Link do projeto já no ar:
+## Link do projeto já no ar:
 https://pfp-retalab-react-aq71.vercel.app/
 
 ## Comandos p/ a execução do projeto:
