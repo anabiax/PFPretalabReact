@@ -73,7 +73,7 @@ vercel.json.
 
 inserir o loading p/ carregar a troca entre as pag.
 
-adc o mode clear na tela toda e as configurações decorrentes;
+adc o mode clean na tela toda e as configurações decorrentes;
 
 inserir uma caixinha p/ colocar o meu currículo;
 
