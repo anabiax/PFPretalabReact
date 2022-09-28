@@ -1,5 +1,5 @@
 import styles from './home.module.css'
-import fotoPerfil from '../../components/img/anabeatriz.jpeg'
+import fotoPerfil from '../../components/img/anabeatriz.jpeg'  // importando a imagem p/ ser chamada como variável lá embaixo - aí dá certo p/ fazer o deploy
 /* import { FaGithub, FaLinkedin, FaDiscord } from "react-icons/fa"; */
 
 function Home(){
