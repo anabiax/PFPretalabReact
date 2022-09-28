@@ -39,7 +39,7 @@ ATENÇÃO: não esquecer de baixar **`npm i nanoid`** p/ ser adicionado o nanoid
 
 `npm install react-icons --save`(dependência)
 
-`npm install firebase --save`(firebase)
+`npm install firebase `(firebase)
 
 
 <br>
