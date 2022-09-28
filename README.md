@@ -4,7 +4,7 @@ Projeto final desenvolvido utilizando a biblioteca ReactJS no Ciclo Formativo B�
 
 ## Biblioteca:
 
-<img align="center" alt="Logo-React" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)">
+  <img align="center" alt="logoReact" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ## Comandos p/ a execução do projeto:
 
@@ -34,7 +34,7 @@ ATENÇÃO: não esquecer de baixar ****`npm i nanoid`** p/ ser adicionado o ****
 
 Rotas;
 
-4 páginas (sobre, jornada, comentários e contato);
+4 páginas (home, jornada, comentários e contato);
 
 CSS module (impede sobreescrita de módulos dentro do React); 
 
