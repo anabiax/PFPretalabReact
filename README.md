@@ -52,6 +52,7 @@ vercel.json.
 
 > :construction: Projetinho em construção :construction:
 
+
 ### Itens a serem implementados:
 
 inserir o loading p/ carregar a troca entre as pag.
