@@ -41,6 +41,8 @@ ATENÇÃO: não esquecer de baixar **`npm i nanoid`** p/ ser adicionado o nanoid
 
 `npm install firebase `(firebase)
 
+Link da documentação: https://firebase.google.com/docs/web/setup?hl=pt-br
+
 
 <br>
 
