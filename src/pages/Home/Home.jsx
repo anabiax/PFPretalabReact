@@ -1,11 +1,12 @@
 import styles from './home.module.css'
+import fotoPerfil from '../../components/img/anabeatriz.jpeg'
 /* import { FaGithub, FaLinkedin, FaDiscord } from "react-icons/fa"; */
 
 function Home(){
     return(
         <>
             <div className={styles.about}>
-                <img src="src/components/img/anabeatriz.jpeg" alt="foto do arquivo pessoal de AnaB Santos" />
+                <img src={fotoPerfil} alt="foto do arquivo pessoal de AnaB Santos" />
                 <div className={styles.text}>
                     <h1>Ana Beatriz dos Santos</h1>
                     <h3>Desenvolvedora Full Stack</h3>
