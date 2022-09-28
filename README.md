@@ -28,7 +28,7 @@ ATENÇÃO: não esquecer de baixar ****`npm i nanoid`** p/ ser adicionado o ****
 
 `**npm install --save phosphor-react**` ****(dependência)***
 
-`**npm install react-icons --save`(dependência)**
+`**npm install react-icons --save`(dependência)
 
 ## Itens implementados:
 
