@@ -58,11 +58,11 @@ function Jornada(){
 
             <div className={styles.tiana}>
                 <h3>
-                    "Deseje e sonhe com muita fé no coração. Mas lembre-se, Tiana, aquela estrela só é responsável pela metade. O resto você faz com
+                    <i>"Deseje e sonhe com muita fé no coração. Mas lembre-se, Tiana, aquela estrela só é responsável pela metade. O resto você faz com
                     muito trabalho e então, aí sim, vai poder fazer tudo o que imaginar. Me
-                    prometa só uma coisa. Que nunca vai se esquecer do que é realmente importante."
+                    prometa só uma coisa. Que nunca vai se esquecer do que é realmente importante."</i>
                     <br></br>
-                    <span>(A Princesa e o Sapo, 2009).</span>
+                    <i><span>(A Princesa e o Sapo, 2009).</span></i>
                 </h3>
             </div>
         </>
