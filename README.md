@@ -9,6 +9,8 @@ Projeto final desenvolvido utilizando a biblioteca ReactJS no Ciclo Formativo B√
 ## Link do projeto j√° no ar:
 https://pfp-retalab-react-aq71.vercel.app/
 
+### Algumas imagens do projeto: 
+
 ![Captura de tela de 2022-09-28 11-31-08](https://user-images.githubusercontent.com/105956403/192806690-ae2e0616-86af-491f-b679-c78164c26a57.png)
 ![Captura de tela de 2022-10-01 15-06-19](https://user-images.githubusercontent.com/105956403/193422471-9aab9433-8f07-498d-b90d-6e3ed4e68f58.png)
 ![Captura de tela de 2022-09-28 11-35-41](https://user-images.githubusercontent.com/105956403/192807711-401d44e0-6303-431b-8bd0-c3813552e843.png)
