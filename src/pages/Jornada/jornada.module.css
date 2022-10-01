@@ -44,3 +44,34 @@ span {
 .sobre h5 {
     margin-top: 10px;
 }
+
+.tiana {
+    margin: 80px 80px 80px 80px;
+    text-align: justify;
+    line-height: 40px;
+    padding: 20px 300px 0 300px;
+    font-size: 1.5em;  
+    overflow: hidden;
+}
+
+.tiana h3 span {
+    position: relative;
+}
+
+.tiana h3 span::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border-left: 2px solid #7200ff;
+    left: 0;
+    background: #171717;
+    animation: slide 2.5s steps(10) infinite;
+}
+
+@keyframes slide {
+    100% {
+        left: 100%;
+        margin: 0 -35px 0 35px;
+    }
+}
