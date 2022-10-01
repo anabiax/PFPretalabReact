@@ -17,7 +17,7 @@
 
 .texto {
     margin: 25px 80px 0 80px;
-    font-size: 20px;
+    font-size: 24px;
     text-align: justify;
     line-height: 30px;
 }
@@ -46,6 +46,10 @@ span {
     margin-top: 10px;
 }
 
+.sobre h5 a  {
+    text-decoration: none;
+
+}
 .tiana {
     margin: 0px 80px 80px 80px;
     text-align: justify;
