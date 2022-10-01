@@ -52,20 +52,15 @@ function Jornada(){
                 <iframe width="880" height="500" src="https://www.youtube.com/embed/43kEjzHpgTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
-            <div className={styles.texto}>
+            {/* <div className={styles.texto}>
                 <p>Obs: apesar da Disney ter umas problemáticas bem sérias no que diz respeito à representação feminina, Tiana, sem sombra de dúvidas, foi um dos maiores acertos da rede. Não sou uma pessoa muito estratégica para avaliação de filmes ( se bem que quando o assunto é Disney, a pessoa aqui domina rs ), mas a potência contida em cada verso enunciado por Tiana carrega uma história que vale a pena parar pra admirar e propagar para alcançar mais e mais meninas negras. </p>
-            </div>
-
-            {/* <div className={styles.video}>
-                <h2>Certamente os versos da música <span>Redescobrir</span> delinearam cada pedacinho dessa jornada, que tal dar uma rememorada nesta melodia contagiante?</h2>
-                <iframe width="880" height="500" src="https://www.youtube.com/embed/P39f0_aYv-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>  */}
+            </div> */}
 
             <div className={styles.tiana}>
                 <h3>
-                    Deseje e sonhe com muita fé no coração. Mas lembre-se, Tiana, aquela estrela só é responsável pela metade. O resto você faz com
+                    "Deseje e sonhe com muita fé no coração. Mas lembre-se, Tiana, aquela estrela só é responsável pela metade. O resto você faz com
                     muito trabalho e então, aí sim, vai poder fazer tudo o que imaginar. Me
-                    prometa só uma coisa. Que nunca vai se esquecer do que é realmente importante. 
+                    prometa só uma coisa. Que nunca vai se esquecer do que é realmente importante."
                     <br></br>
                     <span>(A Princesa e o Sapo, 2009).</span>
                 </h3>

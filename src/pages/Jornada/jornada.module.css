@@ -38,6 +38,7 @@ span {
 }
 
 .video h2 {
+    font-size: 1.9rem;
     padding-bottom: 40px;
 }
 
@@ -46,7 +47,7 @@ span {
 }
 
 .tiana {
-    margin: 80px 80px 80px 80px;
+    margin: 0px 80px 80px 80px;
     text-align: justify;
     line-height: 40px;
     padding: 20px 300px 0 300px;
